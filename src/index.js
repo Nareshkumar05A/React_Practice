@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import Car from './components/Car'
+import Apple from './components/Apple';
 import Garbage  from './components/Garbage';
 import reportWebVitals from './reportWebVitals';
 
