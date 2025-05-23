@@ -8,6 +8,7 @@ import Car from './components/Car';
 import Array from './components/Array';
 import Apple from './components/Apple';
 import Garbage  from './components/Garbage';
+import Timer from './components/Timer';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -21,6 +22,7 @@ root.render(
     <Scooter/>
     <List/>
     <Array/>
+    <Timer/>
   </React.StrictMode>
 );
 
